@@ -1,0 +1,46 @@
+$Explore-more-color:#070707;
+$Explore-more-color-hover:#384051;
+$Explore-width:315px;
+$Explore-more-Fontcolor-hover:#ffffff;
+
+$nav-font-size:24px;
+$home-page-promo-font:36px;
+$home-page-promo-font-color:#ffffff;
+$carIntro-color:#070707;
+$carIntro-color-text:30px;
+$footerNav-font-size:30px;
+$footer-font-size:18px;
+
+$more-font-color:#512f2f;
+$more-hover:#43617f;
+$bottom-promo-text:24px;
+$bottom-promo-text-color:#ffffff;
+$home-pageImg-full-size:1366px;
+$small-img-width: 620px;
+
+
+$title-font-family: 'Cinzel', serif;
+$text-font-family: 'Alegreya Sans', sans-serif;
+
+$social-icon-width:50px;
+
+<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans|Cinzel" rel="stylesheet">
+
+
+$mobile-img-full-width:750px;
+
+$mobile-img-width:700px;
+$mobile-icon-width:150px;
+$text-font-size:38px;
+$more-size:40px;
+$search-bar-width:600px;
+$search-bar-button-color:#959595;
+$mobileSP-font-size-tel:48px;
+$mobileSP-font-size-search:33px;
+
+
+
+
+
+
+
